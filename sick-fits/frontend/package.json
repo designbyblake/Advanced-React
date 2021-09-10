@@ -79,10 +79,11 @@
         ],
         "plugins": [
           [
-            "styled-components",
+            "babel-plugin-styled-components",
             {
               "ssr": true,
-              "displayName": true
+              "displayName": true,
+              "preprocess": false
             }
           ]
         ]
@@ -93,10 +94,11 @@
         ],
         "plugins": [
           [
-            "styled-components",
+            "babel-plugin-styled-components",
             {
               "ssr": true,
-              "displayName": true
+              "displayName": true,
+              "preprocess": false
             }
           ]
         ]
@@ -114,10 +116,11 @@
         ],
         "plugins": [
           [
-            "styled-components",
+            "babel-plugin-styled-components",
             {
               "ssr": true,
-              "displayName": true
+              "displayName": true,
+              "preprocess": false
             }
           ]
         ]
