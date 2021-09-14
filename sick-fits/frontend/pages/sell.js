@@ -1,3 +1,9 @@
+import { CreateProduct } from '../components/CreateProducts';
+
 export default function SellPage() {
-  return <p>This is the sell page.</p>;
+  return (
+    <div>
+      <CreateProduct />
+    </div>
+  );
 }

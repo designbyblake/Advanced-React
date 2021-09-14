@@ -34,6 +34,9 @@ body {
   font-size: 1.5rem;
   line-height:2;
 }
+img{
+  max-width:100%;
+}
 a {
   text-decoration:none;
   color: var(--black);
